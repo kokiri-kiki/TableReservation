@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/fa0b1d97-cfea-4e8f-b7fc-8047101c5f6a/resourceGroups/NodeDemo/providers/Microsoft.Web/sites/TableReservation",
+    "appService.deploySubpath": "."
+}
